@@ -1,0 +1,39 @@
+body {
+  background-color: grey;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+.articulo .titulo{
+  color: #c0392b;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.articulo .hero-image{
+  width: 100%;
+  height: 80px;
+  background-image: url('img/Tailandiaamena.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.articulo img.articulo-image{
+  max-width: 100%;
+}
+
+
+.articulo .subtitulo{
+  font-size: 14px;
+  color: gray;
+}
+.articulo .descripcion{
+  font-size: 15px;
+  color: gray;
+}
+.articulo .email-container{
+text-align: center;
+}
